@@ -95,7 +95,7 @@ for m in metody:
 #print best
 
 print('# ' * 20)
-print('# ', 'Autor:  Mikołaj Chełpa')
+print('# ', 'Autor:  Mikolaj Chelpa')
 print('# ', 'Indeks: 350362')
 print('# ' * 20, '\n')
 print('Badana funkcja: ', inspect.getsource(param.f))
